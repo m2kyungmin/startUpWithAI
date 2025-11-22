@@ -101,9 +101,9 @@ export default function Pricing() {
       icon: Film,
       color: "obangsaek-yellow",
       boxImages: [
-        "/images/boxes/김치전.jpeg",
-        "/images/boxes/닭강정.jpeg",
-        "/images/boxes/떡볶이.jpeg",
+        "/images/boxes/kimchi-jeon.jpeg",
+        "/images/boxes/dakgangjeong.jpeg",
+        "/images/boxes/tteokbokki.jpeg",
       ],
       features: [
         t("pricing.kCulture.feature1"),
@@ -125,9 +125,9 @@ export default function Pricing() {
       icon: Leaf,
       color: "green-500",
       boxImages: [
-        "/images/boxes/비건-김밥.jpeg",
-        "/images/boxes/비건-잡채.jpeg",
-        "/images/boxes/비건-순두부찌개.jpeg",
+        "/images/boxes/vegan-kimbap.jpeg",
+        "/images/boxes/vegan-japchae.jpeg",
+        "/images/boxes/vegan-sundubu-jjigae.jpeg",
       ],
       features: [
         t("pricing.kVegan.feature1"),
@@ -149,9 +149,9 @@ export default function Pricing() {
       icon: ChefHat,
       color: "obangsaek-red",
       boxImages: [
-        "/images/boxes/불고기.jpeg",
-        "/images/boxes/비빔밥.jpeg",
-        "/images/boxes/갈비찜.jpeg",
+        "/images/boxes/bulgogi.jpeg",
+        "/images/boxes/bibimbap.jpeg",
+        "/images/boxes/galbi-jjim.jpeg",
       ],
       features: [
         t("pricing.kTraditional.feature1"),
